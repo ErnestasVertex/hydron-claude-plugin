@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="hydron-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <!-- Hexagon with H cutout - AI/tech modularity + infrastructure -->
+  <path fill="url(#hydron-gradient)" fill-rule="evenodd" d="M32 2L60 17V47L32 62L4 47V17L32 2ZM24 18h6v11h4V18h6v28h-6V35h-4v11h-6V18z"/>
+</svg>

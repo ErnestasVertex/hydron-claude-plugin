@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hydron": {
+      "type": "http",
+      "url": "https://mcp.hydron.app/mcp"
+    }
+  }
+}

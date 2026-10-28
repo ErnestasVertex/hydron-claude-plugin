@@ -1,0 +1,29 @@
+{
+  "name": "hydron",
+  "displayName": "Hydron",
+  "version": "1.0.0",
+  "description": "AI-powered deployment platform. Deploy apps, provision dedicated servers, build infrastructure, and run open-source LLM models on GPU hardware.",
+  "author": {
+    "name": "Vertex",
+    "email": "support@hydron.app",
+    "url": "https://hydron.app"
+  },
+  "homepage": "https://hydron.app",
+  "repository": "https://github.com/ErnestasVertex/hydron-claude-plugin",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "deployment",
+    "devops",
+    "servers",
+    "infrastructure",
+    "docker",
+    "gpu",
+    "llm",
+    "dedicated-servers"
+  ],
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://hydron.app/docs/",
+  "supportUrl": "https://hydron.app/contact/",
+  "privacyPolicyUrl": "https://hydron.app/privacy/",
+  "termsOfServiceUrl": "https://hydron.app/terms/"
+}
