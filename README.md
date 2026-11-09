@@ -1,6 +1,6 @@
 # Hydron plugin for Claude
 
-![Hydron logo](./assets/logo.svg)
+![Hydron logo](./assets/logo.png)
 
 ## What is Hydron
 

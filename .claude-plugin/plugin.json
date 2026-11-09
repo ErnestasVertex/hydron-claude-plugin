@@ -1,7 +1,7 @@
 {
   "name": "hydron",
   "displayName": "Hydron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered deployment platform. Deploy apps, provision dedicated servers, build infrastructure, and run open-source LLM models on GPU hardware.",
   "author": {
     "name": "Vertex",
@@ -21,7 +21,7 @@
     "llm",
     "dedicated-servers"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "documentationUrl": "https://hydron.app/docs/",
   "supportUrl": "https://hydron.app/contact/",
   "privacyPolicyUrl": "https://hydron.app/privacy/",
